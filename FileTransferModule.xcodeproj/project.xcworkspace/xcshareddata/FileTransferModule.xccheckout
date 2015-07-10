@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>63EF4509-CC0F-4863-B535-D5761C0D5E1C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FileTransferModule</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9BA7818781D4D34F90E3B8D58A6E7A6F3CD4AB0B</key>
+		<string>https://git.allseenalliance.org/gerrit/services/filetransfer</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ObjC/FileTransferModule_iOS/FileTransferModule.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9BA7818781D4D34F90E3B8D58A6E7A6F3CD4AB0B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.allseenalliance.org/gerrit/services/filetransfer</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9BA7818781D4D34F90E3B8D58A6E7A6F3CD4AB0B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9BA7818781D4D34F90E3B8D58A6E7A6F3CD4AB0B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>filetransfer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
