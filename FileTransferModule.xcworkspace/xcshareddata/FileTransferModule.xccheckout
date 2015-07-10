@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E7E8F083-B33A-4D01-8D6F-E9C9F4632A5D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FileTransferModule</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>98FA2151377683EE667BE50A5080BFFD1F218C54</key>
+		<string>https://github.com/dvs15/FileTransferModule.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FileTransferModule.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>98FA2151377683EE667BE50A5080BFFD1F218C54</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dvs15/FileTransferModule.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>98FA2151377683EE667BE50A5080BFFD1F218C54</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>98FA2151377683EE667BE50A5080BFFD1F218C54</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FileTransferModule</string>
+		</dict>
+	</array>
+</dict>
+</plist>
